@@ -146,10 +146,11 @@ cards.forEach(card => {
         card.classList.add("main");
     });
 });
-
+````
 
 ## OUTPUT:
-<img width="1914" height="902" alt="Screenshot 2025-12-23 155038" src="https://github.com/user-attachments/assets/90ee6c14-07d7-4052-bef8-2c3926ee7376" />
+<img width="1914" height="902" alt="Screenshot 2025-12-23 155038" src="https://github.com/user-attachments/assets/740edce9-f4ae-4e1d-bd59-c981874a8a00" />
+
 
 
 ## RESULT:
